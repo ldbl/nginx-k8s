@@ -54,7 +54,7 @@ service:
 replicaCount: 1
 ```
 
-it's not necessary to add all posible values here because they are inherites by the main values file : 
+it's not necessary to add all posible values here because they are inheritd by the main values file : 
 https://github.com/bitnami/charts/blob/master/bitnami/nginx/values.yaml
 In this file we only overwrite them .
 
